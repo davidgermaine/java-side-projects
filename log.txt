@@ -1,0 +1,4 @@
+02/07/2020 14:07:21	          FEED MONEY: $5.00 	Updated Balance: $5.00
+02/07/2020 14:07:25	               Heavy: $5.00 	Updated Balance: $3.50
+02/07/2020 14:07:31	     Mountain Melter: $3.50 	Updated Balance: $2.00
+02/07/2020 14:07:36	          Triplemint: $2.00 	Updated Balance: $1.25
